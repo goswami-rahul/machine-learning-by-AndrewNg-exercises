@@ -3,6 +3,7 @@ The solutions to the exercises done during Machine Learning course by Andrew Ng 
 These are in programming language Octave/MATLAB.
 
 ## Repository Tree
+```bash
 .
 ├── machine-learning-ex1
 │   ├── ex1
@@ -176,4 +177,4 @@ These are in programming language Octave/MATLAB.
 │   │   └── visualizeFit.m
 │   └── ex8.pdf
 └── README.md
-
+```
